@@ -6,7 +6,7 @@ const Hero = () => {
         <img src={logo} className="w-28 object-contain" />
         <button
           type="button"
-          onClick={() => window.open("https://github.com/jatin4224", "_blank")}
+          onClick={() => window.open("https://github.com/Arunvasuacchu", "_blank")}
           className="black_btn shadow-lg"
         >
           Github
@@ -17,9 +17,7 @@ const Hero = () => {
         <span className="orange_gradient">OpenAI</span>
       </h1>
       <h2 className="desc shadow-lg">
-        Unlock effortless comprehension with Summify, the open-source article
-        summarizer that converts verbose texts into succinct and understandable
-        summaries, making complex information easily digestible
+      In a world inundated with information, where every corner of the digital landscape offers a deluge of content, navigating the sea of knowledge can be overwhelming. Amidst this abundance, there arises a crucial.Enter our article summarizer 
       </h2>
     </header>
   );

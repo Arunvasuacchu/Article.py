@@ -1,3 +1,4 @@
+// eslint-disable-next-line no-unused-vars
 import React, { useState, useEffect } from "react";
 
 import { copy, linkIcon, loader, tick } from "../assets";
@@ -141,7 +142,7 @@ const Demo = () => {
         )}
       </div>
       <footer className="text-center text-gray-500 text-sm mt-8">
-        &copy; 2024 All rights reserved. Created by Jatin.
+        &copy; 2024 All rights reserved. Created by Arun.
       </footer>
     </section>
   );
